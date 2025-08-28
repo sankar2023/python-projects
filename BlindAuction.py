@@ -1,5 +1,3 @@
-from art import logo
-print(logo)
 ch="yes"
 bid={}
 while ch!="no":
